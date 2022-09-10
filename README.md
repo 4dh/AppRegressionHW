@@ -1,2 +1,2 @@
-# AppRegressionHW
-Applied Linear Regression HWs W&amp;M 2019
+# Applied Linear Regression
+Applied Linear Regression Projects 2019
